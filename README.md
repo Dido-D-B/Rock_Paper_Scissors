@@ -24,7 +24,7 @@ It’s a digital version of the classic **Rock, Paper, Scissors** game where you
 1.	Clone this repo:
 
 ```
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/Dido-D-B/Rock_Paper_Scissors
 cd rock-paper-scissors
 ```
 
